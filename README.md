@@ -1,7 +1,3 @@
-Certainly, here's a sample README file for a project involving testing the Upwork website using Selenium IDE and documenting test plans and test cases:
-
----
-
 # Upwork Website Testing Project
 
 ## Project Overview
